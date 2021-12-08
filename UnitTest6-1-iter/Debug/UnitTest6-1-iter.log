@@ -1,0 +1,4 @@
+﻿  UnitTest6-1-iter.cpp
+C:\Users\maksg\Desktop\5\id-8215-806\Lab6-1-iter\Lab6-1-iter\main.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\maksg\Desktop\5\id-8215-806\Lab6-1-iter\Debug\UnitTest6-1-iter.lib and object C:\Users\maksg\Desktop\5\id-8215-806\Lab6-1-iter\Debug\UnitTest6-1-iter.exp
+  UnitTest6-1-iter.vcxproj -> C:\Users\maksg\Desktop\5\id-8215-806\Lab6-1-iter\Debug\UnitTest6-1-iter.dll
